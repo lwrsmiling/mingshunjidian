@@ -250,6 +250,8 @@ a:focus {
 
 .tm-gallery-item {
   margin: 0 15px;
+  width: 220px;
+  height: 330px;
 }
 
 .slick-dots {
